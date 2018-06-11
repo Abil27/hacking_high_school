@@ -1,0 +1,20 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    42.txt                                             :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: ahoussei <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/10 18:17:28 by ahoussei          #+#    #+#              #
+#    Updated: 2018/06/10 18:19:13 by ahoussei         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+cd = change directory
+cp = copy file or folder
+mv = move file or folder
+rm = remove file
+rm -rf = remove a directory and his content
+pwd = print word directory
+touch = create a file
+mkdir = create a directory
