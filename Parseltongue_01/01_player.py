@@ -10,7 +10,5 @@
 #                                                                              #
 # **************************************************************************** #
 
-import sys
-
 name = input("Hello Hacker, what is your name?\n")
 print("Welcome {}!".format(name))
